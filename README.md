@@ -1,1 +1,1 @@
-This is a test
+Prebid.js builds for different adapters.
