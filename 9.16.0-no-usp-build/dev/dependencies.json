@@ -1,0 +1,24 @@
+{
+  "prebid-core.js": [
+    "chunk-core.js",
+    "creative-renderer-display.js"
+  ],
+  "consentManagementGpp.js": [
+    "cmp.js",
+    "consentManagement.js"
+  ],
+  "consentManagementTcf.js": [
+    "chunk-core.js",
+    "cmp.js",
+    "consentManagement.js"
+  ],
+  "gppControl_usnat.js": [
+    "mspa.js"
+  ],
+  "gppControl_usstates.js": [
+    "mspa.js"
+  ],
+  "gptPreAuction.js": [
+    "gptUtils.js"
+  ]
+}
