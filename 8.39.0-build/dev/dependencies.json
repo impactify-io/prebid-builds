@@ -1,0 +1,17 @@
+{
+  "prebid-core.js": [
+    "creative-renderer-display.js"
+  ],
+  "consentManagement.js": [
+    "cmp.js"
+  ],
+  "consentManagementGpp.js": [
+    "cmp.js"
+  ],
+  "gppControl_usnat.js": [
+    "mspa.js"
+  ],
+  "gppControl_usstates.js": [
+    "mspa.js"
+  ]
+}
