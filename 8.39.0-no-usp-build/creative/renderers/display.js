@@ -1,0 +1,1 @@
+!function(){"use strict";window.render=function({ad:d,adUrl:i,width:n,height:e},{mkFrame:o},r){if(!d&&!i)throw{reason:"noAd",message:"Missing ad markup or URL"};{const t=r.document,s={width:n,height:e};i&&!d?s.src=i:s.srcdoc=d,t.body.appendChild(o(t,s))}}}();
