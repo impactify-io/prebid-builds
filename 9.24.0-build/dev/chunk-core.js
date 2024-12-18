@@ -5603,9 +5603,10 @@ const getCreativeRenderer = function () {
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   DEBUG_KEY: () => (/* binding */ DEBUG_KEY),
 /* harmony export */   loadSession: () => (/* binding */ loadSession)
 /* harmony export */ });
-/* unused harmony exports DEBUG_KEY, debuggingModuleLoader, debuggingControls, reset */
+/* unused harmony exports debuggingModuleLoader, debuggingControls, reset */
 /* harmony import */ var _config_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./config.js */ "./src/config.js");
 /* harmony import */ var _hook_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./hook.js */ "./src/hook.js");
 /* harmony import */ var _prebidGlobal_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./prebidGlobal.js */ "./src/prebidGlobal.js");
@@ -10327,6 +10328,7 @@ const userSync = newUserSync(Object.defineProperties({
 /* harmony export */   getWindowTop: () => (/* binding */ getWindowTop),
 /* harmony export */   groupBy: () => (/* binding */ groupBy),
 /* harmony export */   hasDeviceAccess: () => (/* binding */ hasDeviceAccess),
+/* harmony export */   hasNonSerializableProperty: () => (/* binding */ hasNonSerializableProperty),
 /* harmony export */   inIframe: () => (/* binding */ inIframe),
 /* harmony export */   insertElement: () => (/* binding */ insertElement),
 /* harmony export */   insertHtmlIntoIframe: () => (/* binding */ insertHtmlIntoIframe),
@@ -10368,7 +10370,7 @@ const userSync = newUserSync(Object.defineProperties({
 /* harmony export */   uniques: () => (/* binding */ uniques),
 /* harmony export */   unsupportedBidderMessage: () => (/* binding */ unsupportedBidderMessage)
 /* harmony export */ });
-/* unused harmony exports getPrebidInternal, getBidIdParameter, sizesToSizeTuples, sizeTupleToSizeString, parseGPTSingleSizeArray, sizeTupleToRtbSize, parseGPTSingleSizeArrayToRtbSize, getWindowLocation, canAccessWindowTop, hasConsoleLogger, debugTurnedOn, isA, _each, contains, _map, waitForElementToLoad, createTrackPixelHtml, encodeMacroURI, createTrackPixelIframeHtml, getBidRequest, getValue, isSafeFrameWindow, getSafeframeGeometry, replaceAuctionPrice, replaceClickThrough, getDomLoadingDuration, cleanObj, parseQS, formatQS, deepEqual, safeJSONParse, safeJSONEncode, getUnixTimestampFromNow, convertObjectToArray, hasNonSerializableProperty, setOnAny, extractDomainFromHost, triggerNurlWithCpm */
+/* unused harmony exports getPrebidInternal, getBidIdParameter, sizesToSizeTuples, sizeTupleToSizeString, parseGPTSingleSizeArray, sizeTupleToRtbSize, parseGPTSingleSizeArrayToRtbSize, getWindowLocation, canAccessWindowTop, hasConsoleLogger, debugTurnedOn, isA, _each, contains, _map, waitForElementToLoad, createTrackPixelHtml, encodeMacroURI, createTrackPixelIframeHtml, getBidRequest, getValue, isSafeFrameWindow, getSafeframeGeometry, replaceAuctionPrice, replaceClickThrough, getDomLoadingDuration, cleanObj, parseQS, formatQS, deepEqual, safeJSONParse, safeJSONEncode, getUnixTimestampFromNow, convertObjectToArray, setOnAny, extractDomainFromHost, triggerNurlWithCpm */
 /* harmony import */ var _config_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./config.js */ "./src/config.js");
 /* harmony import */ var klona_json__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! klona/json */ "./node_modules/klona/json/index.mjs");
 /* harmony import */ var _polyfill_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./polyfill.js */ "./src/polyfill.js");
