@@ -1,0 +1,26 @@
+{
+  "prebid-core.js": [
+    "chunk-core.js",
+    "viewport.js",
+    "greedy.js",
+    "creative-renderer-display.js"
+  ],
+  "consentManagementGpp.js": [
+    "consentManagement.js",
+    "cmp.js"
+  ],
+  "consentManagementTcf.js": [
+    "chunk-core.js",
+    "consentManagement.js",
+    "cmp.js"
+  ],
+  "debugging.js": [
+    "gptUtils.js"
+  ],
+  "gppControl_usstates.js": [
+    "mspa.js"
+  ],
+  "gptPreAuction.js": [
+    "gptUtils.js"
+  ]
+}
