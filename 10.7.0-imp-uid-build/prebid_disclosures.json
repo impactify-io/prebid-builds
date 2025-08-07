@@ -1,0 +1,179 @@
+[
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/probes.json",
+    "disclosedBy": [
+      "prebid-core"
+    ],
+    "identifier": "_rdc*",
+    "type": "cookie",
+    "maxAgeSeconds": 10,
+    "cookieRefresh": false,
+    "purposes": [
+      1
+    ]
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/probes.json",
+    "disclosedBy": [
+      "prebid-core"
+    ],
+    "identifier": "prebid.cookieTest",
+    "type": "web",
+    "purposes": [
+      1
+    ]
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/debugging.json",
+    "disclosedBy": [
+      "prebid-core",
+      "debugging"
+    ],
+    "identifier": "__*_debugging__",
+    "type": "web",
+    "purposes": [
+      1
+    ]
+  },
+  {
+    "disclosedIn": "https://ad.impactify.io/tcfvendors.json",
+    "disclosedBy": [
+      "impactifyBidAdapter"
+    ],
+    "identifier": "_im*",
+    "type": "web",
+    "purposes": [
+      3,
+      4,
+      7,
+      10
+    ]
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/userId-optout.json",
+    "disclosedBy": [
+      "userId"
+    ],
+    "identifier": "_pbjs_id_optout",
+    "type": "cookie",
+    "maxAgeSeconds": 31536000,
+    "cookieRefresh": false,
+    "purposes": []
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/userId-optout.json",
+    "disclosedBy": [
+      "userId"
+    ],
+    "identifier": "_pbjs_id_optout",
+    "type": "web",
+    "purposes": []
+  },
+  {
+    "disclosedIn": "https://privacy.criteo.com/iab-europe/tcfv2/disclosure",
+    "disclosedBy": [
+      "criteoIdSystem"
+    ],
+    "identifier": "criteo_fast_bid",
+    "type": "web",
+    "maxAgeSeconds": 604800,
+    "purposes": []
+  },
+  {
+    "disclosedIn": "https://privacy.criteo.com/iab-europe/tcfv2/disclosure",
+    "disclosedBy": [
+      "criteoIdSystem"
+    ],
+    "identifier": "criteo_fast_bid_expires",
+    "type": "web",
+    "maxAgeSeconds": 604800,
+    "purposes": []
+  },
+  {
+    "disclosedIn": "https://privacy.criteo.com/iab-europe/tcfv2/disclosure",
+    "disclosedBy": [
+      "criteoIdSystem"
+    ],
+    "identifier": "cto_bundle",
+    "type": "cookie",
+    "maxAgeSeconds": 33696000,
+    "cookieRefresh": false,
+    "purposes": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      9,
+      10
+    ]
+  },
+  {
+    "disclosedIn": "https://privacy.criteo.com/iab-europe/tcfv2/disclosure",
+    "disclosedBy": [
+      "criteoIdSystem"
+    ],
+    "identifier": "cto_optout",
+    "type": "cookie",
+    "maxAgeSeconds": 33696000,
+    "cookieRefresh": false,
+    "purposes": []
+  },
+  {
+    "disclosedIn": "https://privacy.criteo.com/iab-europe/tcfv2/disclosure",
+    "disclosedBy": [
+      "criteoIdSystem"
+    ],
+    "identifier": "cto_bundle",
+    "type": "web",
+    "maxAgeSeconds": null,
+    "purposes": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      9,
+      10
+    ]
+  },
+  {
+    "disclosedIn": "https://privacy.criteo.com/iab-europe/tcfv2/disclosure",
+    "disclosedBy": [
+      "criteoIdSystem"
+    ],
+    "identifier": "cto_optout",
+    "type": "web",
+    "maxAgeSeconds": null,
+    "purposes": []
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/sharedId-optout.json",
+    "disclosedBy": [
+      "sharedIdSystem"
+    ],
+    "identifier": "_pubcid_optout",
+    "type": "cookie",
+    "maxAgeSeconds": 31536000,
+    "cookieRefresh": false,
+    "purposes": []
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/sharedId-optout.json",
+    "disclosedBy": [
+      "sharedIdSystem"
+    ],
+    "identifier": "_pubcid_optout",
+    "type": "web",
+    "purposes": []
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/sharedId-optout.json",
+    "disclosedBy": [
+      "sharedIdSystem"
+    ],
+    "identifier": "_pubcid_optout_exp",
+    "type": "web",
+    "purposes": []
+  }
+]

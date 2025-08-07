@@ -1,0 +1,61 @@
+{
+  "prebid-core.js": [
+    "chunk-core.js",
+    "viewport.js",
+    "creative-renderer-display.js"
+  ],
+  "prebid-core.metadata.js": [
+    "metadata.js"
+  ],
+  "consentManagementGpp.js": [
+    "consentManagement.js",
+    "cmp.js"
+  ],
+  "consentManagementTcf.js": [
+    "chunk-core.js",
+    "consentManagement.js",
+    "cmp.js"
+  ],
+  "criteoIdSystem.metadata.js": [
+    "metadata.js"
+  ],
+  "debugging.js": [
+    "gptUtils.js"
+  ],
+  "debugging.metadata.js": [
+    "metadata.js"
+  ],
+  "gppControl_usnat.js": [
+    "mspa.js"
+  ],
+  "gppControl_usstates.js": [
+    "mspa.js"
+  ],
+  "gptPreAuction.js": [
+    "gptUtils.js"
+  ],
+  "impactifyBidAdapter.metadata.js": [
+    "metadata.js"
+  ],
+  "sharedIdSystem.js": [
+    "domainOverrideToRootDomain.js"
+  ],
+  "sharedIdSystem.metadata.js": [
+    "metadata.js"
+  ],
+  "unifiedIdSystem.js": [
+    "uid1Eids.js"
+  ],
+  "unifiedIdSystem.metadata.js": [
+    "metadata.js"
+  ],
+  "userId.js": [
+    "chunk-core.js"
+  ],
+  "userId.metadata.js": [
+    "metadata.js"
+  ],
+  "utiqIdSystem.metadata.js": [
+    "metadata.js"
+  ]
+}
