@@ -1,0 +1,52 @@
+[
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/probes.json",
+    "disclosedBy": [
+      "prebid-core"
+    ],
+    "identifier": "_rdc*",
+    "type": "cookie",
+    "maxAgeSeconds": 10,
+    "cookieRefresh": false,
+    "purposes": [
+      1
+    ]
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/probes.json",
+    "disclosedBy": [
+      "prebid-core"
+    ],
+    "identifier": "prebid.cookieTest",
+    "type": "web",
+    "purposes": [
+      1
+    ]
+  },
+  {
+    "disclosedIn": "https://cdn.jsdelivr.net/gh/prebid/Prebid.js/metadata/disclosures/prebid/debugging.json",
+    "disclosedBy": [
+      "prebid-core",
+      "debugging"
+    ],
+    "identifier": "__*_debugging__",
+    "type": "web",
+    "purposes": [
+      1
+    ]
+  },
+  {
+    "disclosedIn": "https://ad.impactify.io/tcfvendors.json",
+    "disclosedBy": [
+      "impactifyBidAdapter"
+    ],
+    "identifier": "_im*",
+    "type": "web",
+    "purposes": [
+      3,
+      4,
+      7,
+      10
+    ]
+  }
+]
