@@ -1,0 +1,53 @@
+{
+  "prebid-core.js": [
+    "chunk-core.js",
+    "fpdUtils.js",
+    "viewport.js",
+    "creative-renderer-safe.js",
+    "creative-renderer-display.js"
+  ],
+  "prebid-core.metadata.js": [
+    "metadata.js"
+  ],
+  "consentManagementGpp.js": [
+    "consentManagement.js",
+    "cmp.js"
+  ],
+  "consentManagementTcf.js": [
+    "chunk-core.js",
+    "consentManagement.js",
+    "cmp.js"
+  ],
+  "debugging.js": [
+    "fpdUtils.js"
+  ],
+  "debugging.metadata.js": [
+    "metadata.js"
+  ],
+  "gppControl_usnat.js": [
+    "mspa.js"
+  ],
+  "gppControl_usstates.js": [
+    "mspa.js"
+  ],
+  "gptPreAuction.js": [
+    "gptUtils.js"
+  ],
+  "impactifyBidAdapter.js": [
+    "chunk-core.js",
+    "ortbConverter.js",
+    "percentInView.js",
+    "boundingClientRect.js"
+  ],
+  "impactifyBidAdapter.metadata.js": [
+    "metadata.js"
+  ],
+  "storageControl.js": [
+    "metadata.js",
+    "storageDisclosure.js"
+  ],
+  "tcfControl.js": [
+    "consentManagement.js",
+    "purposeDeclarations.js"
+  ]
+}
